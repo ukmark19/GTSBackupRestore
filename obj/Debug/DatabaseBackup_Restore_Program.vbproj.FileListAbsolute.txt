@@ -10,3 +10,11 @@ C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restor
 C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\DatabaseBackup_Restore_Program.exe
 C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\DatabaseBackup_Restore_Program.xml
 C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\DatabaseBackup_Restore_Program.pdb
+C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.exe
+C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.xml
+C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.pdb

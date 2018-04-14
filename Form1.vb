@@ -2,11 +2,19 @@
 
 Public Class Form1
 
-    Dim cnADONetConnection As New System.Data.SqlClient.SqlConnection()
+    Dim cnADONetConnection As New System.Data.Odbc.OdbcConnection()
 
-    Private m_cn As New SqlConnection()
+    Private m_cn As New OdbcConnection()
 
-    m_cn.ConnectionString = "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="C\Users\Admin\Google Drive\Property\000 - Administration\Contacts.mdf";Integrated Security=True;Connect Timeout=30"
+    ' m_cn.ConnectionString = Data Source="C\Users\Admin\Google Drive\Property\000 - Administration\Contacts.mdf";Integrated Security=True;Connect Timeout=30"
+    'Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\myFolder\myAccessFile.accdb;
+    ' Persist Security Info=False;
+
+    m_cn.ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;
+                            Data Source=C\Users\Admin\Documents\GTSBackupRestore\TestDB\GTSDatabaseTest.accdb;"
+
+
+    ' C\Users\Admin\Documents\GTSBackupRestore\TestDB\GTSDatabaseTest.accdb
 
     Public Sub New()
 
