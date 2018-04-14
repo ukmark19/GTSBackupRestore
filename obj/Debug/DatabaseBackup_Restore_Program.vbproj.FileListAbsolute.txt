@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\DatabaseBackup_Restore_Program.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\DatabaseBackup_Restore_Program.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\DatabaseBackup_Restore_Program.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\bin\Debug\DatabaseBackup_Restore_Program.exe.config
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\bin\Debug\DatabaseBackup_Restore_Program.exe
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\bin\Debug\DatabaseBackup_Restore_Program.pdb
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\bin\Debug\DatabaseBackup_Restore_Program.xml
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\DatabaseBackup_Restore_Program.exe
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\DatabaseBackup_Restore_Program.xml
+C:\Users\Admin\source\repos\DatabaseBackup_Restore_Program\DatabaseBackup_Restore_Program\obj\Debug\DatabaseBackup_Restore_Program.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DatabaseBackup_Restore_Program", "DatabaseBackup_Restore_Program.vbproj", "{3B7DEBD4-0200-4114-9434-4D9667565132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B7DEBD4-0200-4114-9434-4D9667565132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7DEBD4-0200-4114-9434-4D9667565132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7DEBD4-0200-4114-9434-4D9667565132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7DEBD4-0200-4114-9434-4D9667565132}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A738B4E6-FF7E-4510-BF0C-B956952FD363}
+	EndGlobalSection
+EndGlobal
