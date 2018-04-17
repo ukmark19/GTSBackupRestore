@@ -18,3 +18,7 @@ C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Progr
 C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.exe
 C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.xml
 C:\Users\Admin\Documents\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.pdb
+C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.vbproj.GenerateResource.Cache
+C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.vbproj.CoreCompileInputs.cache
