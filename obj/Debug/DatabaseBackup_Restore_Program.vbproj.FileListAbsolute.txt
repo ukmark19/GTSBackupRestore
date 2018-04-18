@@ -22,3 +22,8 @@ C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\WindowsA
 C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\WindowsApp1.Resources.resources
 C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.vbproj.GenerateResource.Cache
 C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.vbproj.CoreCompileInputs.cache
+C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.vbprojResolveAssemblyReference.cache
+C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\Interop.ADODB.dll
+C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\Interop.ADOR.dll
+C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\Interop.ADOX.dll
+C:\Users\richmar7\Documents\GTSBackupRestore\GTSBackupRestore\obj\Debug\DatabaseBackup_Restore_Program.vbproj.ResolveComReference.cache
